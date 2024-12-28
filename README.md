@@ -7,6 +7,6 @@ is still a small lag in the detection. I am still attempting to fix this issue a
 
 Bear in my this is my first open cv project and there is more that i want to add to this once i get the time to work on this project a bit more!! excited at the possibilities!!
 
-![screenshot](imageFolder/screenshot1.jpg)
-![screenshot](imageFolder/screenshot1.jpg)
-![screenshot](imageFolder/screenshot1.jpg)
+![screenshot](screenshot1.jpg)
+![screenshot](screenshot2.jpg)
+![screenshot](screenshot3.jpg)
